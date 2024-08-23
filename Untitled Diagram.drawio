@@ -88,6 +88,45 @@
         <mxCell id="22lBglCoc17cfZs_OlAy-30" value="0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="408" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="22lBglCoc17cfZs_OlAy-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="751" y="430" as="sourcePoint" />
+            <mxPoint x="961" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22lBglCoc17cfZs_OlAy-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;x&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="921" y="400" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="22lBglCoc17cfZs_OlAy-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;y&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="715" y="620" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="22lBglCoc17cfZs_OlAy-34" value="二楼高度 y0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="871" y="440" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="22lBglCoc17cfZs_OlAy-36" value="现有楼层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="751" y="480" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="22lBglCoc17cfZs_OlAy-35" value="下拉二楼" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="751" y="430" width="119" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="22lBglCoc17cfZs_OlAy-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="751" y="430" as="sourcePoint" />
+            <mxPoint x="751" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22lBglCoc17cfZs_OlAy-38" value="一屏高度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="520" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="22lBglCoc17cfZs_OlAy-39" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="560" as="sourcePoint" />
+            <mxPoint x="764" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22lBglCoc17cfZs_OlAy-40" value="0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="408" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
